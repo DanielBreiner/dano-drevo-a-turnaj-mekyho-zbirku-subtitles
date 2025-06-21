@@ -1,8 +1,8 @@
 [Script Info]
 ; Edited with Jubler subtitle editor
-Title: 
+Title:
 Original Script: Mravec
-Update Details: 
+Update Details:
 ScriptType: v4.00
 Collisions: Normal
 PlayResX: 1280
@@ -359,7 +359,7 @@ Dialogue: 0,0:14:32.53,0:14:34.92,Default,,0000,0000,0000,,skurvené deti, by so
 Dialogue: 0,0:14:35.80,0:14:38.14,kim,,0000,0000,0000,,Dano, ty prasiak, to nemyslíš vážne.
 Dialogue: 0,0:14:38.72,0:14:40.11,kim,,0000,0000,0000,,Posrať sa v kupé?
 Dialogue: 0,0:14:40.11,0:14:43.21,peter,,0000,0000,0000,,Akože fakt, Dano, akurát keď som začal žrať.
-Dialogue: 0,0:14:43.97,0:14:45.37,peter,,0000,0000,0000,,sa ti doblvem do lona.
+Dialogue: 0,0:14:43.97,0:14:45.37,peter,,0000,0000,0000,,Sa ti doblvem do lona.
 Dialogue: 0,0:14:45.98,0:14:48.67,peter,,0000,0000,0000,,Potom to zhnije a ja sa doblvem znova.
 Dialogue: 0,0:14:49.77,0:14:51.77,kim,,0000,0000,0000,,Dano, začni to nejak riešiť.
 Dialogue: 0,0:14:53.39,0:14:55.12,dano,,0000,0000,0000,,Kim, ale ja som v pohode.
@@ -892,7 +892,7 @@ Dialogue: 0,0:38:23.26,0:38:25.81,dano,,0000,0000,0000,,Neviem, prečo si Žbirk
 Dialogue: 0,0:38:25.81,0:38:27.26,dano,,0000,0000,0000,,nevyfajčil som Starému Janovi
 Dialogue: 0,0:38:27.26,0:38:28.95,dano,,0000,0000,0000,,a ani som nijak nepodvádzal.
 Dialogue: 0,0:38:31.55,0:38:32.08,dano,,0000,0000,0000,,Pozri.
-Dialogue: 0,0:38:32.79,0:38:35.17,dano,,0000,0000,0000,,Vlani som zaváral egreše a vykypeli mi....
+Dialogue: 0,0:38:32.79,0:38:35.17,dano,,0000,0000,0000,,Vlani som zaváral egreše a vykypeli mi...
 Dialogue: 0,0:38:36.09,0:38:37.45,dano,,0000,0000,0000,,...zo tri zaváračky.
 Dialogue: 0,0:38:37.45,0:38:38.58,dano,,0000,0000,0000,,Nechcem žiadny podpis,
 Dialogue: 0,0:38:38.58,0:38:41.17,dano,,0000,0000,0000,,ale knihu Zavárame na chalupe.
@@ -3305,7 +3305,5 @@ Dialogue: 0,2:23:27.57,2:23:29.74,Default,,0000,0000,0000,,sa môže stať legen
 Dialogue: 0,2:23:31.94,2:23:33.87,other,,0000,0000,0000,,Maroš, jebni tam už titulky!
 Dialogue: 0,2:23:35.52,2:23:36.52,Default,,0000,0000,0000,,[Fall Out Boy - I Don't Care]
 Dialogue: 0,2:23:37.32,2:23:39.32,Default,,0000,0000,0000,,Titulky Dano Drevo a Turnaj Mekyho Žbirku
-Dialogue: 0,2:23:39.32,2:23:41.32,*Default,,0000,0000,0000,,v0.5.5
+Dialogue: 0,2:23:39.32,2:23:41.32,*Default,,0000,0000,0000,,v0.5.6
 Dialogue: 0,2:23:41.32,2:23:43.32,Default,,0000,0000,0000,,by Mravec
-Dialogue: 0,2:23:43.32,2:23:45.32,Default,,0000,0000,0000,,
-Dialogue: 0,2:23:45.32,2:23:47.32,Default,,0000,0000,0000,,
