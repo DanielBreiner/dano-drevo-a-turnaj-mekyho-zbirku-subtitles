@@ -142,7 +142,7 @@ Dialogue: 0,0:04:52.14,0:04:53.04,fekete-esmeralda,,0000,0000,0000,,Ale, Šaňo.
 Dialogue: 0,0:04:54.12,0:04:55.85,fekete-esmeralda,,0000,0000,0000,,Počúvaj, nie si ty Dano Drevo?
 Dialogue: 0,0:04:55.85,0:04:57.54,fekete-esmeralda,,0000,0000,0000,,Ten Dano Drevo, čo sa vždy posere.
 Dialogue: 0,0:04:57.54,0:04:58.47,dano,,0000,0000,0000,,Áno, to som ja.
-Dialogue: 0,0:04:58.47,0:04:59.25,fekete-esmeralda,,0000,0000,0000,,Ťeší ma, Fekete.
+Dialogue: 0,0:04:58.47,0:04:59.25,fekete-esmeralda,,0000,0000,0000,,Teší ma, Fekete.
 Dialogue: 0,0:04:59.25,0:05:00.47,fekete-esmeralda,,0000,0000,0000,,Nemáš päť eur požičať, Danko?
 Dialogue: 0,0:05:00.47,0:05:01.48,dano,,0000,0000,0000,,No, pozrem sa.
 Dialogue: 0,0:05:01.48,0:05:02.27,fekete-esmeralda,,0000,0000,0000,,Výborne, synak.
@@ -213,23 +213,23 @@ Dialogue: 0,0:08:42.53,0:08:46.11,Default,,0000,0000,0000,,A teraz mohutný apla
 Dialogue: 0,0:08:46.11,0:08:48.11,Default,,0000,0000,0000,,zo Stredy nad Bodrogom!
 Dialogue: 0,0:08:48.11,0:08:49.11,Default,,0000,0000,0000,,[PKO, AZA - Szövetség]
 Dialogue: 0,0:08:48.11,0:08:50.24,Default,,0000,0000,0000,,♪ (Nemáme nič proti sexu, drogám, tráve.) ♪
-Dialogue: 0,0:08:50.24,0:08:53.49,Default,,0000,0000,0000,,♪ (Len pár youtuberov, ktorých si strčíme do vrecka.) ♪
-Dialogue: 0,0:08:53.49,0:08:57.98,Default,,0000,0000,0000,,♪ (Aj tak sa s tebou nechcem rozprávať.) ♪
+Dialogue: 0,0:08:50.24,0:08:53.49,Default,,0000,0000,0000,,♪ (Len pár buzerantských youtuberov, ktorých si strčíme do vrecka.) ♪
+Dialogue: 0,0:08:53.49,0:08:57.98,Default,,0000,0000,0000,,♪ (Prečo na mňa musíš kydať s tvojím mozgom, ja aj tak nechcem kydať na teba.) ♪
 Dialogue: 0,0:08:55.68,0:08:58.27,dvojicka1,,0000,0000,0000,,Pozrite, to je najlepší hráč na svete!
-Dialogue: 0,0:08:57.98,0:09:00.15,Default,,0000,0000,0000,,♪ (Kašlem na hudbu, chcem sa rozplynúť.) ♪
+Dialogue: 0,0:08:57.98,0:09:00.15,Default,,0000,0000,0000,,♪ (Jebem na hudbu, chcem sa rozpustiť.) ♪
 Dialogue: 0,0:08:59.06,0:09:01.56,Default,,0000,0000,0000,,Tím Maďarov nepovedie nik iný,
-Dialogue: 0,0:09:00.15,0:09:02.92,Default,,0000,0000,0000,,♪ (Nezáleží na tom, aký veľký gangster ste na ceste.) ♪
+Dialogue: 0,0:09:00.15,0:09:02.92,Default,,0000,0000,0000,,♪ (Je jedno, aký si veľký gangster, si Klamároš.) ♪
 Dialogue: 0,0:09:01.56,0:09:05.09,Default,,0000,0000,0000,,ako sám veľký Chvostnatý Gábor!
-Dialogue: 0,0:09:02.92,0:09:05.16,Default,,0000,0000,0000,,♪ (Od teba sa nemám čoho obávať.) ♪
-Dialogue: 0,0:09:05.16,0:09:07.71,Default,,0000,0000,0000,,♪ (Jedno telo a najprv mi vysaješ semeno.) ♪
-Dialogue: 0,0:09:07.71,0:09:10.07,Default,,0000,0000,0000,,♪ (Začal si ty, ale posledné slovo mám ja.) ♪
+Dialogue: 0,0:09:02.92,0:09:05.16,Default,,0000,0000,0000,,♪ (Nedržím sa od teba, načo by som sa obával.) ♪
+Dialogue: 0,0:09:05.16,0:09:07.71,Default,,0000,0000,0000,,♪ (Jeden hovor a si prvý čo mi saje semeno.) ♪
+Dialogue: 0,0:09:07.71,0:09:10.07,Default,,0000,0000,0000,,♪ (Ty si si začal, ale posledné slovo mám ja.) ♪
 Dialogue: 0,0:09:08.18,0:09:10.44,other,,0000,0000,0000,,Gábor! Gábor!
-Dialogue: 0,0:09:10.07,0:09:12.71,Default,,0000,0000,0000,,♪ (Rozbalím tvoj vianočný darček.) ♪
+Dialogue: 0,0:09:10.07,0:09:12.71,Default,,0000,0000,0000,,♪ (Ja budem ten, kto rozbalí tvoj vianočný darček.) ♪
 Dialogue: 0,0:09:10.44,0:09:12.64,other,,0000,0000,0000,,Gábor! Gábor!
 Dialogue: 0,0:09:12.64,0:09:14.77,other,,0000,0000,0000,,Gábor! Gábor!
-Dialogue: 0,0:09:12.71,0:09:15.47,Default,,0000,0000,0000,,♪ (Pretože kultúru nevytvárate vy) ♪
+Dialogue: 0,0:09:12.71,0:09:15.47,Default,,0000,0000,0000,,♪ (Pretože ty kultúru netvoríš) ♪
 Dialogue: 0,0:09:14.77,0:09:16.98,other,,0000,0000,0000,,Gábor! Gábor!
-Dialogue: 0,0:09:15.47,0:09:17.86,Default,,0000,0000,0000,,♪ (a uvidíte, že sa vám to stane osudným) ♪
+Dialogue: 0,0:09:15.47,0:09:17.86,Default,,0000,0000,0000,,♪ (a uvidíš, že toto bude tvoj skon.) ♪
 Dialogue: 0,0:09:16.98,0:09:19.17,other,,0000,0000,0000,,Gábor! Gábor!
 Dialogue: 0,0:09:17.86,0:09:19.89,Default,,0000,0000,0000,,♪ (Moje názory nie sú v súlade so zásadami.) ♪
 Dialogue: 0,0:09:19.17,0:09:20.02,maros,,0000,0000,0000,,Jožo!
@@ -284,7 +284,7 @@ Dialogue: 0,0:11:01.55,0:11:02.46,kim,,0000,0000,0000,,Dano!
 Dialogue: 0,0:11:03.64,0:11:04.73,kim,,0000,0000,0000,,Dano!
 Dialogue: 0,0:11:06.83,0:11:08.83,other,,0000,0000,0000,,Kde mám protézu? Piče...
 Dialogue: 0,0:11:13.33,0:11:15.90,Default,,0000,0000,0000,,Nedotýkajte sa môjho syna, vy starý kretén!
-Dialogue: 0,0:11:15.61,0:11:17.26,stary-jano,,0000,0000,0000,,Pardón pani, pardón.
+Dialogue: 0,0:11:15.61,0:11:17.26,stary-jano,,0000,0000,0000,,Pardon pani, pardon.
 Dialogue: 0,0:11:17.47,0:11:18.88,Default,,0000,0000,0000,,Drevo je na zemi,
 Dialogue: 0,0:11:18.88,0:11:21.03,Default,,0000,0000,0000,,kopnite ho rýchlo do tej gebule niekto.
 Dialogue: 0,0:11:21.03,0:11:23.19,Default,,0000,0000,0000,,Kopnite ho už niekto, do piči!
@@ -306,7 +306,7 @@ Dialogue: 0,0:12:25.11,0:12:26.09,Default,,0000,0000,0000,,Dano.
 Dialogue: 0,0:12:26.09,0:12:27.94,jergus-gombit,,0000,0000,0000,,Veď ja si ťa nájdem, fešáčik.
 Dialogue: 0,0:12:27.94,0:12:30.86,Default,,0000,0000,0000,,Dano. Dano. Danö!
 Dialogue: 0,0:12:30.86,0:12:32.38,kim,,0000,0000,0000,,Dano, si v poriadku?
-Dialogue: 0,0:12:32.38,0:12:34.09,peter,,0000,0000,0000,,Nejak ti navrela gebula.
+Dialogue: 0,0:12:32.38,0:12:34.09,peter,,0000,0000,0000,,Nejak ti navrela gebuľa.
 Dialogue: 0,0:12:39.74,0:12:41.57,komunista-vasil,,0000,0000,0000,,Zabite tých švábov!
 Dialogue: 0,0:12:44.37,0:12:45.96,komunista-vasil,,0000,0000,0000,,Vyjebaní kapitalisti.
 Dialogue: 0,0:12:45.96,0:12:46.84,peter-senior,,0000,0000,0000,,Uhni komunista.
@@ -319,7 +319,7 @@ Dialogue: 0,0:12:54.98,0:12:56.26,komunista-vasil,,0000,0000,0000,,Kde máte pio
 Dialogue: 0,0:12:56.26,0:12:57.25,dano,,0000,0000,0000,,Aké šatky?
 Dialogue: 0,0:12:57.51,0:12:58.54,peter-senior,,0000,0000,0000,,Čo to trepete?
 Dialogue: 0,0:12:58.65,0:12:59.93,dano,,0000,0000,0000,,Ale ja nemám žiadnu šatku.
-Dialogue: 0,0:12:59.70,0:13:01.27,kim,,0000,0000,0000,,Dano, je to zarytý bolševik.
+Dialogue: 0,0:12:59.70,0:13:01.27,kim,,0000,0000,0000,,Dano, je to zarytý boľševik.
 Dialogue: 0,0:13:01.27,0:13:02.45,kim,,0000,0000,0000,,Kukaj na to obočie.
 Dialogue: 0,0:13:02.81,0:13:04.33,dano,,0000,0000,0000,,Ty vole, čistý Brežnev.
 Dialogue: 0,0:13:04.44,0:13:05.05,komunista-vasil,,0000,0000,0000,,Kde?
@@ -371,7 +371,7 @@ Dialogue: 0,0:15:06.79,0:15:08.20,kim,,0000,0000,0000,,najlepšie hneď teraz.
 Dialogue: 0,0:15:09.02,0:15:10.02,Default,,0000,0000,0000,,[The Kooks - Seaside]
 Dialogue: 0,0:15:13.15,0:15:14.17,dano,,0000,0000,0000,,Pakuj sa ty...
 Dialogue: 0,0:15:14.58,0:15:15.64,dano,,0000,0000,0000,,tlstá kačica.
-Dialogue: 0,0:15:33.98,0:15:34.98,Default,,0000,0000,0000,,[Marks Orchesta - Stars Of Tomorrow]
+Dialogue: 0,0:15:33.98,0:15:34.98,Default,,0000,0000,0000,,[Marks Orchestra - Stars Of Tomorrow]
 Dialogue: 0,0:15:41.10,0:15:44.07,Default,,0000,0000,0000,,Wau, to je nádherné.
 Dialogue: 0,0:15:42.03,0:15:43.27,other,,0000,0000,0000,,To je dar z nebies!
 Dialogue: 0,0:15:44.07,0:15:45.14,Default,,0000,0000,0000,,To je neuveriteľné.
@@ -418,7 +418,7 @@ Dialogue: 0,0:17:21.81,0:17:24.44,stary-jano,,0000,0000,0000,,čo najvyšší po
 Dialogue: 0,0:17:25.15,0:17:26.64,stary-jano,,0000,0000,0000,,Preto som pozval kurvy.
 Dialogue: 0,0:17:26.75,0:17:30.20,stary-jano,,0000,0000,0000,,Sú to hygienické kurvy z francúzskej dedinky Chevance.
 Dialogue: 0,0:17:30.20,0:17:32.54,stary-jano,,0000,0000,0000,,Prosím, privítajte ich aj so svojou pasáčkou
-Dialogue: 0,0:17:32.54,0:17:34.19,stary-jano,,0000,0000,0000,,Madam Brigite de Fecalie!
+Dialogue: 0,0:17:32.54,0:17:34.19,stary-jano,,0000,0000,0000,,Madam Brigitte de Fecalie!
 Dialogue: 0,0:17:34.84,0:17:35.84,Default,,0000,0000,0000,,[K.Maro - Femme Like U]
 Dialogue: 0,0:17:59.92,0:18:02.45,Default,,0000,0000,0000,,Peder, hentá vraj tajne pije moč.
 Dialogue: 0,0:18:08.60,0:18:09.89,other,,0000,0000,0000,,Ukáž piču!
@@ -572,7 +572,7 @@ Dialogue: 0,0:24:54.89,0:24:56.54,slota-jozef,,0000,0000,0000,,Mečiarova hlava.
 Dialogue: 0,0:24:57.43,0:24:58.61,slota-jozef,,0000,0000,0000,,Táslerova hlava.
 Dialogue: 0,0:24:59.87,0:25:00.35,slota-jozef,,0000,0000,0000,,Hop!
 Dialogue: 0,0:25:00.63,0:25:01.39,slota-jozef,,0000,0000,0000,,Čo černoch,
-Dialogue: 0,0:25:01.39,0:25:03.19,slota-jozef,,0000,0000,0000,,také žerete v Ugande?
+Dialogue: 0,0:25:01.39,0:25:03.19,slota-jozef,,0000,0000,0000,,také žeriete v Ugande?
 Dialogue: 0,0:25:03.19,0:25:04.65,slota-jozef,,0000,0000,0000,,Potíš sa tučko?
 Dialogue: 0,0:25:04.65,0:25:07.02,slota-jozef,,0000,0000,0000,,Až sem cítiť ten loj z teba.
 Dialogue: 0,0:25:07.02,0:25:07.81,slota-jozef,,0000,0000,0000,,Aká irónia,
@@ -600,13 +600,13 @@ Dialogue: 0,0:25:48.84,0:25:50.07,slota-jozef,,0000,0000,0000,,a teda je to Maď
 Dialogue: 0,0:25:50.24,0:25:52.40,slota-jozef,,0000,0000,0000,,Detailnou analýzou som zistil,
 Dialogue: 0,0:25:53.31,0:25:54.41,slota-jozef,,0000,0000,0000,,že je prevtelením
 Dialogue: 0,0:25:54.41,0:25:55.67,slota-jozef,,0000,0000,0000,,maďarského žandára
-Dialogue: 0,0:25:55.67,0:25:57.09,slota-jozef,,0000,0000,0000,,Ferencza Fereszlanyiho,
+Dialogue: 0,0:25:55.67,0:25:57.09,slota-jozef,,0000,0000,0000,,Ferenca Pereszlényiho,
 Dialogue: 0,0:25:57.71,0:25:58.81,slota-jozef,,0000,0000,0000,,ktorý v Černovej
 Dialogue: 0,0:25:58.81,0:26:00.55,slota-jozef,,0000,0000,0000,,zabil vyše 100 Slovákov.
 Dialogue: 0,0:26:03.15,0:26:05.38,slota-jozef,,0000,0000,0000,,Kto tu v triede cíti národnú hrdosť?
 Dialogue: 0,0:26:06.06,0:26:07.62,slota-jozef,,0000,0000,0000,,No tak koho si vyberieme?
 Dialogue: 0,0:26:07.62,0:26:08.26,slota-jozef,,0000,0000,0000,,Zubák.
-Dialogue: 0,0:26:08.26,0:26:09.47,slota-jozef,,0000,0000,0000,,Teda... pardón.
+Dialogue: 0,0:26:08.26,0:26:09.47,slota-jozef,,0000,0000,0000,,Teda... pardon.
 Dialogue: 0,0:26:09.47,0:26:10.37,slota-jozef,,0000,0000,0000,,Bubák.
 Dialogue: 0,0:26:10.37,0:26:12.37,slota-jozef,,0000,0000,0000,,Bubák, postav sa.
 Dialogue: 0,0:26:12.37,0:26:14.66,slota-jozef,,0000,0000,0000,,Prepánajána, tebe smrdí z tej papule,
@@ -639,7 +639,7 @@ Dialogue: 0,0:27:14.98,0:27:16.61,slota-jozef,,0000,0000,0000,,Vyslov tie dve sl
 Dialogue: 0,0:27:19.05,0:27:20.11,slota-jozef,,0000,0000,0000,,Jožko Vajda.
 Dialogue: 0,0:27:22.39,0:27:25.65,slota-jozef,,0000,0000,0000,,Kúzlo Jožka Vajdy je najsmrteľnejšie zo všetkých.
 Dialogue: 0,0:27:25.83,0:27:28.26,slota-jozef,,0000,0000,0000,,Hovorí sa, že Meky Žbirka si ho natrénoval,
-Dialogue: 0,0:27:28.26,0:27:30.60,slota-jozef,,0000,0000,0000,,aby mohol zabíjať svojích neprajníkov.
+Dialogue: 0,0:27:28.26,0:27:30.60,slota-jozef,,0000,0000,0000,,aby mohol zabíjať svojich neprajníkov.
 Dialogue: 0,0:27:31.52,0:27:32.88,slota-jozef,,0000,0000,0000,,Ale to je len povera.
 Dialogue: 0,0:27:39.01,0:27:40.07,slota-jozef,,0000,0000,0000,,Kedže všetci vieme,
 Dialogue: 0,0:27:40.07,0:27:42.29,slota-jozef,,0000,0000,0000,,že Meky je spevák so zlatým srdcom.
@@ -659,7 +659,7 @@ Dialogue: 0,0:28:23.17,0:28:24.78,slota-jozef,,0000,0000,0000,,Uhnite, uhnite!
 Dialogue: 0,0:28:24.78,0:28:25.89,slota-jozef,,0000,0000,0000,,Uhni ryšavec!
 Dialogue: 0,0:28:26.33,0:28:27.11,slota-jozef,,0000,0000,0000,,Zubák.
 Dialogue: 0,0:28:27.66,0:28:29.75,slota-jozef,,0000,0000,0000,,Keď žereš, tak ti krvácajú ďasná?
-Dialogue: 0,0:28:31.22,0:28:33.22,slota-jozef,,0000,0000,0000,,Tak to poď do kabinetu, mám tám nejaký Sensodyne.
+Dialogue: 0,0:28:31.22,0:28:33.22,slota-jozef,,0000,0000,0000,,Tak to poď do kabinetu, mám tam nejaký Sensodyne.
 Dialogue: 0,0:28:34.69,0:28:35.32,slota-jozef,,0000,0000,0000,,Practe sa,
 Dialogue: 0,0:28:35.32,0:28:36.59,slota-jozef,,0000,0000,0000,,vy špinavé menšiny.
 Dialogue: 0,0:28:36.96,0:28:38.79,slota-jozef,,0000,0000,0000,,Toto je chyba migračnej politiky,
@@ -849,7 +849,7 @@ Dialogue: 0,0:36:49.65,0:36:51.59,ucitelka,,0000,0000,0000,,A za to by mal byť 
 Dialogue: 0,0:36:51.73,0:36:54.00,stary-jano,,0000,0000,0000,,Ani so Žbirkom sa nedá kontaktovať.
 Dialogue: 0,0:36:54.57,0:36:57.44,ucitelka,,0000,0000,0000,,Chýruje sa, že Meky mal nejakú menšiu nehodu v Patinciach,
 Dialogue: 0,0:36:57.44,0:36:58.60,ucitelka,,0000,0000,0000,,ale vraj je už v poriadku.
-Dialogue: 0,0:36:59.02,0:37:00.74,ucitelka,,0000,0000,0000,,Ževraj zakopol o vaňu, či tak nejak.
+Dialogue: 0,0:36:59.02,0:37:00.74,ucitelka,,0000,0000,0000,,Že vraj zakopol o vaňu, či tak nejak.
 Dialogue: 0,0:37:00.74,0:37:02.47,ludo-kolman,,0000,0000,0000,,Nechcem do toho nejak zabŕdať,
 Dialogue: 0,0:37:02.69,0:37:04.85,ludo-kolman,,0000,0000,0000,,ale v piatom žalme Koránu sa píše,
 Dialogue: 0,0:37:05.37,0:37:07.56,ludo-kolman,,0000,0000,0000,,že ak niekto oklame svojho blížneho,
@@ -877,7 +877,7 @@ Dialogue: 0,0:37:49.02,0:37:51.02,peter,,0000,0000,0000,,Skurvenec škuľatý.
 Dialogue: 0,0:37:51.02,0:37:51.89,peter,,0000,0000,0000,,Bodaj by ho
 Dialogue: 0,0:37:51.89,0:37:53.58,peter,,0000,0000,0000,,mater prizabila.
 Dialogue: 0,0:37:56.68,0:37:57.47,peter,,0000,0000,0000,,Ti není hanby,
-Dialogue: 0,0:37:57.47,0:37:58.51,peter,,0000,0000,0000,,takto švindlovať,
+Dialogue: 0,0:37:57.47,0:37:58.51,peter,,0000,0000,0000,,takto švindľovať,
 Dialogue: 0,0:37:58.51,0:37:59.89,peter,,0000,0000,0000,,ty prijebanec hnilý?
 Dialogue: 0,0:38:00.32,0:38:02.32,peter,,0000,0000,0000,,Ťa dnes v noci otrávim kyanidom.
 Dialogue: 0,0:38:02.32,0:38:05.05,peter,,0000,0000,0000,,Nech skapeš, ty turbokokot zosraný, pojebaný.
@@ -1113,7 +1113,7 @@ Dialogue: 0,0:47:08.69,0:47:10.47,poslusny,,0000,0000,0000,,a príjemne po ňom 
 Dialogue: 0,0:47:24.42,0:47:26.03,poslusny,,0000,0000,0000,,Rýchlo, daj si ten plášť na seba!
 Dialogue: 0,0:47:28.38,0:47:29.77,brigita,,0000,0000,0000,,Poslušný...
 Dialogue: 0,0:47:32.04,0:47:34.15,poslusny,,0000,0000,0000,,Už som tu, ty žirafa prerastená.
-Dialogue: 0,0:47:34.15,0:47:36.18,poslusny,,0000,0000,0000,,Dufám, že si nejedla, tak ako som ti povedal.
+Dialogue: 0,0:47:34.15,0:47:36.18,poslusny,,0000,0000,0000,,Dúfam, že si nejedla, tak ako som ti povedal.
 Dialogue: 0,0:47:36.50,0:47:38.68,brigita,,0000,0000,0000,,Nejedla, ale v kuchyni som našla
 Dialogue: 0,0:47:38.68,0:47:40.68,brigita,,0000,0000,0000,,nahnitý bravčový lalok.
 Dialogue: 0,0:47:40.99,0:47:42.74,brigita,,0000,0000,0000,,Takmer som nevydržala.
@@ -1201,7 +1201,7 @@ Dialogue: 0,0:50:43.83,0:50:45.68,Default,,0000,0000,0000,,(Ty zasraný skurvysy
 Dialogue: 0,0:50:45.68,0:50:46.28,slota-jozef,,0000,0000,0000,,(Nie!)
 Dialogue: 0,0:50:47.21,0:50:48.84,slota-jozef,,0000,0000,0000,,Tak toto aby vyšlo z úst
 Dialogue: 0,0:50:48.84,0:50:51.13,slota-jozef,,0000,0000,0000,,predstaviteľa hrdej nordickej rasy!
-Dialogue: 0,0:50:53.34,0:50:54.97,slota-jozef,,0000,0000,0000,,Čo by mal vo voľnom čase rozmýšlať
+Dialogue: 0,0:50:53.34,0:50:54.97,slota-jozef,,0000,0000,0000,,Čo by mal vo voľnom čase rozmýšľať
 Dialogue: 0,0:50:54.97,0:50:56.48,slota-jozef,,0000,0000,0000,,o znovunastolení holokaustu.
 Dialogue: 0,0:50:56.26,0:50:56.88,ucitelka,,0000,0000,0000,,Jozef, čo to?!
 Dialogue: 0,0:50:57.24,0:50:57.79,ucitelka,,0000,0000,0000,,Čo...? No...
@@ -1326,7 +1326,7 @@ Dialogue: 0,0:54:59.79,0:55:00.94,zena,,0000,0000,0000,,Mladá romanca medzi
 Dialogue: 0,0:55:00.94,0:55:02.29,zena,,0000,0000,0000,,Dano Jebom
 Dialogue: 0,0:55:02.89,0:55:04.66,zena,,0000,0000,0000,,a...
 Dialogue: 0,0:55:05.48,0:55:06.76,zena,,0000,0000,0000,,metalistom.
-Dialogue: 0,0:55:08.37,0:55:09.93,zena,,0000,0000,0000,,Povedzte našim čítateľom,
+Dialogue: 0,0:55:08.37,0:55:09.93,zena,,0000,0000,0000,,Povedzte našim čitateľom,
 Dialogue: 0,0:55:10.05,0:55:12.37,zena,,0000,0000,0000,,koľkokrát počas análneho styku
 Dialogue: 0,0:55:12.59,0:55:13.69,zena,,0000,0000,0000,,vám nekontrolovateľne
 Dialogue: 0,0:55:13.69,0:55:15.19,zena,,0000,0000,0000,,explodovala stolica?
@@ -1518,7 +1518,7 @@ Dialogue: 0,1:03:40.42,1:03:42.89,peter,,0000,0000,0000,,Všetko som prejebal na
 Dialogue: 0,1:03:43.74,1:03:44.42,dano,,0000,0000,0000,,No hovor.
 Dialogue: 0,1:03:45.22,1:03:46.03,dano,,0000,0000,0000,,Čo chceš?
 Dialogue: 0,1:03:47.03,1:03:48.80,peter,,0000,0000,0000,,Tú poukážku do secondhandu.
-Dialogue: 0,1:03:49.41,1:03:51.24,peter,,0000,0000,0000,,Pýtal som sa aj ďaľších súťažiacich,
+Dialogue: 0,1:03:49.41,1:03:51.24,peter,,0000,0000,0000,,Pýtal som sa aj ďalších súťažiacich,
 Dialogue: 0,1:03:51.24,1:03:52.93,peter,,0000,0000,0000,,ale tí ich venovali nadácii pre
 Dialogue: 0,1:03:52.93,1:03:54.01,peter,,0000,0000,0000,,hrbatých slepcov.
 Dialogue: 0,1:03:54.20,1:03:54.67,dano,,0000,0000,0000,,Dobre,
@@ -1642,7 +1642,7 @@ Dialogue: 0,1:07:33.80,1:07:34.99,ucitelka,,0000,0000,0000,,a hlavne si dajte z�
 Dialogue: 0,1:07:34.99,1:07:36.36,ucitelka,,0000,0000,0000,,nech vám nesmrdí z papúľ
 Dialogue: 0,1:07:36.42,1:07:37.34,ucitelka,,0000,0000,0000,,jak keby ste zežrali
 Dialogue: 0,1:07:37.34,1:07:38.62,ucitelka,,0000,0000,0000,,dvojtýždnový záprdok.
-Dialogue: 0,1:07:40.09,1:07:41.03,dvojicka1,,0000,0000,0000,,Počul som, ževraj jej
+Dialogue: 0,1:07:40.09,1:07:41.03,dvojicka1,,0000,0000,0000,,Počul som, že vraj jej
 Dialogue: 0,1:07:41.03,1:07:42.27,dvojicka1,,0000,0000,0000,,hnije pažerák či mandľa.
 Dialogue: 0,1:07:42.27,1:07:43.79,dvojicka2,,0000,0000,0000,,Tak čo jej hnije, pažerák či mandľa?
 Dialogue: 0,1:07:43.70,1:07:44.72,dvojicka1,,0000,0000,0000,,Celé hrdlo jej hnije.
@@ -1989,7 +1989,7 @@ Dialogue: 0,1:21:56.17,1:21:57.57,kim,,0000,0000,0000,,Ty pičus! Padaj!
 Dialogue: 0,1:21:57.31,1:21:58.57,peter,,0000,0000,0000,,Harpia nepríčetná.
 Dialogue: 0,1:21:58.57,1:22:00.23,peter,,0000,0000,0000,,Kukaj, jak sa blázni, pome preč.
 Dialogue: 0,1:22:14.96,1:22:16.96,brigita,,0000,0000,0000,,Ruky hore!
-Dialogue: 0,1:22:17.48,1:22:18.09,poslusny,,0000,0000,0000,,Pardón.
+Dialogue: 0,1:22:17.48,1:22:18.09,poslusny,,0000,0000,0000,,Pardon.
 Dialogue: 0,1:22:49.87,1:22:50.99,zbirka,,0000,0000,0000,,Uvidíme, ako to bude.
 Dialogue: 0,1:22:50.99,1:22:52.59,zbirka,,0000,0000,0000,,V tejto chvíli som úplne dopletený.
 Dialogue: 0,1:22:52.96,1:22:53.91,zbirka,,0000,0000,0000,,Is it your name?
@@ -2160,7 +2160,7 @@ Dialogue: 0,1:30:13.77,1:30:14.61,dano,,0000,0000,0000,,v Stropkove.
 Dialogue: 0,1:30:14.92,1:30:16.59,dano,,0000,0000,0000,,Mám pár hodín na to, aby som zistil
 Dialogue: 0,1:30:16.59,1:30:18.38,dano,,0000,0000,0000,,ako vydržať 10 minút pod vodou.
 Dialogue: 0,1:30:19.32,1:30:20.37,dano,,0000,0000,0000,,Zajtra asi skapem.
-Dialogue: 0,1:30:20.53,1:30:21.57,bubak,,0000,0000,0000,,Však sa zhul jak kokot.
+Dialogue: 0,1:30:20.53,1:30:21.57,bubak,,0000,0000,0000,,Však sa zhúľ jak kokot.
 Dialogue: 0,1:30:22.43,1:30:23.18,bubak,,0000,0000,0000,,Dám ti trávu.
 Dialogue: 0,1:30:24.63,1:30:26.79,dvojicka1,,0000,0000,0000,,Tri k jednej, že Drevo bude posledný.
 Dialogue: 0,1:30:26.79,1:30:27.64,other,,0000,0000,0000,,Tutovka.
@@ -2405,7 +2405,7 @@ Dialogue: 0,1:43:09.80,1:43:10.80,Default,,0000,0000,0000,,[Red Hot Chili Pepper
 Dialogue: 0,1:43:50.42,1:43:52.47,dano,,0000,0000,0000,,Starý Jano?!
 Dialogue: 0,1:43:52.28,1:43:54.66,other,,0000,0000,0000,,Janko, po včerajšku nemôžem sedieť.
 Dialogue: 0,1:43:54.66,1:43:55.80,other,,0000,0000,0000,,Dobrá práca!
-Dialogue: 0,1:43:55.80,1:43:56.73,stary-jano,,0000,0000,0000,,Rádo sa stalo.
+Dialogue: 0,1:43:55.80,1:43:56.73,stary-jano,,0000,0000,0000,,Rado sa stalo.
 Dialogue: 0,1:43:56.73,1:43:58.01,other,,0000,0000,0000,,Dušan, kam si
 Dialogue: 0,1:43:58.01,1:43:59.40,other,,0000,0000,0000,,dal ten krém na riť?
 Dialogue: 0,1:44:01.65,1:44:04.21,komunista-vasil,,0000,0000,0000,,Súd prevoláva Istvána Farkasa.
@@ -2871,7 +2871,7 @@ Dialogue: 0,2:06:02.44,2:06:03.70,zbirka,,0000,0000,0000,,Žbirku.
 Dialogue: 0,2:06:20.19,2:06:22.34,zbirka,,0000,0000,0000,,Už prestaň prdieť ten čpavok,
 Dialogue: 0,2:06:22.34,2:06:24.02,zbirka,,0000,0000,0000,,lebo mi odjebe nosohltan.
 Dialogue: 0,2:06:24.72,2:06:26.62,zbirka,,0000,0000,0000,,Poďme teda na operáciu.
-Dialogue: 0,2:06:28.31,2:06:29.89,zbirka,,0000,0000,0000,,Nevaľaj sa Drevo, vstávaj.
+Dialogue: 0,2:06:28.31,2:06:29.89,zbirka,,0000,0000,0000,,Neváľaj sa Drevo, vstávaj.
 Dialogue: 0,2:06:29.89,2:06:30.59,zbirka,,0000,0000,0000,,Get up!
 Dialogue: 0,2:06:30.73,2:06:32.17,zbirka,,0000,0000,0000,,Slušnosť káže, že
 Dialogue: 0,2:06:32.17,2:06:34.17,zbirka,,0000,0000,0000,,v prítomnosti najväčšej megastar
@@ -3068,7 +3068,7 @@ Dialogue: 0,2:14:02.72,2:14:03.82,slota-jozef,,0000,0000,0000,,a garantujem ti,
 Dialogue: 0,2:14:04.13,2:14:05.95,slota-jozef,,0000,0000,0000,,že Kolman to teda nebol.
 Dialogue: 0,2:14:06.23,2:14:07.51,slota-jozef,,0000,0000,0000,,Zosnovať takýto plán
 Dialogue: 0,2:14:07.51,2:14:09.18,slota-jozef,,0000,0000,0000,,vyžadovalo silnú myseľ!
-Dialogue: 0,2:14:09.35,2:14:11.06,slota-jozef,,0000,0000,0000,,Tak trochu porozmýšlaj, ty somár.
+Dialogue: 0,2:14:09.35,2:14:11.06,slota-jozef,,0000,0000,0000,,Tak trochu porozmýšľaj, ty somár.
 Dialogue: 0,2:14:17.54,2:14:19.18,dano,,0000,0000,0000,,Starý Jano sa správal
 Dialogue: 0,2:14:19.18,2:14:21.24,dano,,0000,0000,0000,,nejak divne v poslednej dobe.
 Dialogue: 0,2:14:21.82,2:14:22.90,dano,,0000,0000,0000,,Žeby on bol tou
@@ -3306,5 +3306,5 @@ Dialogue: 0,2:23:27.57,2:23:29.74,Default,,0000,0000,0000,,sa môže stať legen
 Dialogue: 0,2:23:31.94,2:23:33.87,other,,0000,0000,0000,,Maroš, jebni tam už titulky!
 Dialogue: 0,2:23:35.52,2:23:36.52,Default,,0000,0000,0000,,[Fall Out Boy - I Don't Care]
 Dialogue: 0,2:23:37.32,2:23:39.32,Default,,0000,0000,0000,,Titulky Dano Drevo a Turnaj Mekyho Žbirku
-Dialogue: 0,2:23:39.32,2:23:41.32,*Default,,0000,0000,0000,,v0.5.8
+Dialogue: 0,2:23:39.32,2:23:41.32,*Default,,0000,0000,0000,,v0.6.0
 Dialogue: 0,2:23:41.32,2:23:43.32,Default,,0000,0000,0000,,by Mravec
