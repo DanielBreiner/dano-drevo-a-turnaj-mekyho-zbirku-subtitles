@@ -204,7 +204,7 @@ Dialogue: 0,0:07:53.48,0:07:55.92,mojsej,,0000,0000,0000,,Stano prestaň, nestr�
 Dialogue: 0,0:07:56.23,0:07:58.16,mojsej,,0000,0000,0000,,No čo Drevo, ako sa má Starý Jano?
 Dialogue: 0,0:07:58.30,0:07:59.93,dano,,0000,0000,0000,,Kokot blonďatý, pome preč.
 Dialogue: 0,0:08:01.28,0:08:04.52,mojsej,,0000,0000,0000,,Snaž sa dnes udržať svoje slipky čisté, Drevo.
-Dialogue: 0,0:08:23.40,0:08:24.59,other,,0000,0000,0000,,Hovno!
+Dialogue: 0,0:08:23.40,0:08:24.59,dvojicka1,,0000,0000,0000,,Hovno!
 Dialogue: 0,0:08:24.37,0:08:26.19,Default,,0000,0000,0000,,Privítajte prosím tím
 Dialogue: 0,0:08:26.19,0:08:28.19,Default,,0000,0000,0000,,najebaných Írov!
 Dialogue: 0,0:08:29.69,0:08:33.33,Default,,0000,0000,0000,,Íri dnes nastupujú bez svojho kapitána Johna McGradyho,
@@ -441,7 +441,7 @@ Dialogue: 0,0:19:02.33,0:19:04.97,peter,,0000,0000,0000,,Gábor! Som tvoj najvä
 Dialogue: 0,0:19:04.97,0:19:06.59,peter,,0000,0000,0000,,Gábor obzri sa, tu som!
 Dialogue: 0,0:19:06.59,0:19:08.06,peter,,0000,0000,0000,,Gábor! Gábor!
 Dialogue: 0,0:19:08.06,0:19:10.24,peter,,0000,0000,0000,,Prečo si ma vôbec nevšímaš, Gábor?
-Dialogue: 0,0:19:08.77,0:19:10.77,Default,,0000,0000,0000,,Ahoj János, sila buzerantom.
+Dialogue: 0,0:19:08.77,0:19:10.77,Default,,0000,0000,0000,,(Ahoj János, sila buzerantom.)
 Dialogue: 0,0:19:10.49,0:19:11.43,stary-jano,,0000,0000,0000,,Ahoj, István,
 Dialogue: 0,0:19:10.50,0:19:12.95,peter,,0000,0000,0000,,Som si nemyslel, že budeš takáto špina.
 Dialogue: 0,0:19:11.43,0:19:13.00,stary-jano,,0000,0000,0000,,krásne voniaš ty playboy.
@@ -798,7 +798,7 @@ Dialogue: 0,0:34:29.52,0:34:31.70,other,,0000,0000,0000,,To nie je paralympiáda
 Dialogue: 0,0:34:31.77,0:34:33.51,cernoch-drak,,0000,0000,0000,,Podliak podvodnícky.
 Dialogue: 0,0:34:32.55,0:34:34.40,Default,,0000,0000,0000,,Aj ja chcem ísť do turnaja,
 Dialogue: 0,0:34:34.40,0:34:35.90,Default,,0000,0000,0000,,sa tiež poserem.
-Dialogue: 0,0:34:36.09,0:34:37.85,other,,0000,0000,0000,,Ale, do piče, to nemyslíš vážne.
+Dialogue: 0,0:34:36.09,0:34:37.85,other,,0000,0000,0000,,Paľo, do piče, to nemyslíš vážne.
 Dialogue: 0,0:34:37.85,0:34:39.59,other,,0000,0000,0000,,Same hovná naokolo, samé hovná.
 Dialogue: 0,0:34:40.09,0:34:43.57,Default,,0000,0000,0000,,To bude strašná hanba pre Rokfort toto.
 Dialogue: 0,0:34:44.63,0:34:47.09,Default,,0000,0000,0000,,(To sa vážne nehanbí?)
@@ -1323,7 +1323,7 @@ Dialogue: 0,0:54:51.19,0:54:52.17,kim,,0000,0000,0000,,Na tvoju smrť.
 Dialogue: 0,0:54:52.27,0:54:53.31,dano,,0000,0000,0000,,Poď sa rozlúčiť.
 Dialogue: 0,0:54:58.69,0:54:59.60,zena,,0000,0000,0000,,Čo to tu máme?
 Dialogue: 0,0:54:59.79,0:55:00.94,zena,,0000,0000,0000,,Mladá romanca medzi
-Dialogue: 0,0:55:00.94,0:55:02.29,zena,,0000,0000,0000,,Dano Jebom
+Dialogue: 0,0:55:00.94,0:55:02.29,zena,,0000,0000,0000,,Danom Jebom
 Dialogue: 0,0:55:02.89,0:55:04.66,zena,,0000,0000,0000,,a...
 Dialogue: 0,0:55:05.48,0:55:06.76,zena,,0000,0000,0000,,metalistom.
 Dialogue: 0,0:55:08.37,0:55:09.93,zena,,0000,0000,0000,,Povedzte našim čitateľom,
@@ -1934,7 +1934,7 @@ Dialogue: 0,1:19:48.42,1:19:50.28,dano,,0000,0000,0000,,Stále dopadla lepšie a
 Dialogue: 0,1:19:52.88,1:19:54.88,Default,,0000,0000,0000,,Vyfajčíš ma, krásavica?
 Dialogue: 0,1:19:54.88,1:19:56.39,sano-winnetou,,0000,0000,0000,,Jáj, ťa vycmúľam.
 Dialogue: 0,1:19:56.39,1:19:57.37,sano-winnetou,,0000,0000,0000,,Až po koreň!
-Dialogue: 0,1:19:59.33,1:20:00.05,Default,,0000,0000,0000,,Díki moc,
+Dialogue: 0,1:19:59.33,1:20:00.05,Default,,0000,0000,0000,,Díky moc,
 Dialogue: 0,1:20:00.05,1:20:02.06,Default,,0000,0000,0000,,za chvíľu si dáme náš najnovší hit,
 Dialogue: 0,1:20:02.06,1:20:04.05,Default,,0000,0000,0000,,Jebnutý kokot v kurve.
 Dialogue: 0,1:20:05.44,1:20:06.25,kim,,0000,0000,0000,,Gábor...
@@ -2699,8 +2699,8 @@ Dialogue: 0,1:57:51.41,1:57:53.13,sano-winnetou,,0000,0000,0000,,Hneď zajtra ti
 Dialogue: 0,1:57:53.13,1:57:55.02,sano-winnetou,,0000,0000,0000,,čo ti dlžím, zajtra ich máš na stole!
 Dialogue: 0,1:57:55.02,1:57:56.05,sano-winnetou,,0000,0000,0000,,Ach prosím ťa Dano,
 Dialogue: 0,1:57:56.05,1:57:57.75,sano-winnetou,,0000,0000,0000,,ešte aj s úrokami ti ich vrátim.
-Dialogue: 0,1:58:16.10,1:58:17.08,sano-winnetou,,0000,0000,0000,,Díki bráško.
-Dialogue: 0,1:58:17.21,1:58:18.24,sano-winnetou,,0000,0000,0000,,Díki moc.
+Dialogue: 0,1:58:16.10,1:58:17.08,sano-winnetou,,0000,0000,0000,,Díky bráško.
+Dialogue: 0,1:58:17.21,1:58:18.24,sano-winnetou,,0000,0000,0000,,Díky moc.
 Dialogue: 0,1:58:18.46,1:58:19.28,dano,,0000,0000,0000,,Není zač.
 Dialogue: 0,1:58:20.41,1:58:21.14,sano-winnetou,,0000,0000,0000,,Počuj,
 Dialogue: 0,1:58:21.74,1:58:22.75,sano-winnetou,,0000,0000,0000,,tých 16 eur
@@ -2769,7 +2769,7 @@ Dialogue: 0,2:01:18.80,2:01:20.71,patkan,,0000,0000,0000,,A Arabský rituál zno
 Dialogue: 0,2:01:20.71,2:01:21.94,patkan,,0000,0000,0000,,sa môže začať.
 Dialogue: 0,2:01:21.69,2:01:22.69,Default,,0000,0000,0000,,[Choir of Beirut - Ihmadou Al Rab]
 Dialogue: 0,2:01:21.69,2:01:30.23,Default,,0000,0000,0000,,♪ (Ďakujte Hospodinovi, lebo je dobrý,) ♪
-Dialogue: 0,2:01:26.61,2:01:28.42,zbirka,,0000,0000,0000,,Strašne rýchlo ti išlo všetko.
+Dialogue: 0,2:01:26.61,2:01:28.42,zbirka,,0000,0000,0000,,Strašne rýchlo to išlo všetko.
 Dialogue: 0,2:01:28.26,2:01:30.84,zbirka,,0000,0000,0000,,...som mal tak, akosi vyletel.
 Dialogue: 0,2:01:30.23,2:01:37.42,Default,,0000,0000,0000,,♪ (lebo naveky trvá Jeho milosť.) ♪
 Dialogue: 0,2:01:30.84,2:01:33.74,zbirka,,0000,0000,0000,,To je jedna z mála vecí, čo si pamätám.
@@ -2787,7 +2787,7 @@ Dialogue: 0,2:01:55.00,2:02:03.00,Default,,0000,0000,0000,,♪ (Naveky trvá Jeh
 Dialogue: 0,2:02:03.00,2:02:07.00,Default,,0000,0000,0000,,♪ (Chváľte Pána.) ♪
 Dialogue: 0,2:02:07.27,2:02:08.27,Default,,0000,0000,0000,,[Miro Žbirka - Biely kvet]
 Dialogue: 0,2:02:24.32,2:02:26.72,zbirka,,0000,0000,0000,,Čím budem podpisovať autogramy?
-Dialogue: 0,2:02:32.28,2:02:33.44,zbirka,,0000,0000,0000,,Díki, Igor.
+Dialogue: 0,2:02:32.28,2:02:33.44,zbirka,,0000,0000,0000,,Díky, Igor.
 Dialogue: 0,2:02:37.63,2:02:39.03,zbirka,,0000,0000,0000,,A ako vyzerám?
 Dialogue: 0,2:02:39.30,2:02:40.72,patkan,,0000,0000,0000,,Úchvatne.
 Dialogue: 0,2:02:41.21,2:02:42.53,patkan,,0000,0000,0000,,Zmizla vám
@@ -3306,5 +3306,5 @@ Dialogue: 0,2:23:27.57,2:23:29.74,Default,,0000,0000,0000,,sa môže stať legen
 Dialogue: 0,2:23:31.94,2:23:33.87,other,,0000,0000,0000,,Maroš, jebni tam už titulky!
 Dialogue: 0,2:23:35.52,2:23:36.52,Default,,0000,0000,0000,,[Fall Out Boy - I Don't Care]
 Dialogue: 0,2:23:37.32,2:23:39.32,Default,,0000,0000,0000,,Titulky Dano Drevo a Turnaj Mekyho Žbirku
-Dialogue: 0,2:23:39.32,2:23:41.32,*Default,,0000,0000,0000,,v0.6.0
+Dialogue: 0,2:23:39.32,2:23:41.32,*Default,,0000,0000,0000,,v0.6.2
 Dialogue: 0,2:23:41.32,2:23:43.32,Default,,0000,0000,0000,,by Mravec
