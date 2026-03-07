@@ -432,9 +432,9 @@ Dialogue: 0,0:18:27.18,0:18:28.83,stary-jano,,0000,0000,0000,,Privítajte štude
 Dialogue: 0,0:18:28.83,0:18:31.36,stary-jano,,0000,0000,0000,,priemyselného učilišťa v Strede nad Bodrogom!
 Dialogue: 0,0:18:32.55,0:18:33.55,Default,,0000,0000,0000,,[Virrasztók - A Kaszás]
 Dialogue: 0,0:18:32.55,0:18:36.50,Default,,0000,0000,0000,,♪ (Smrť chodí s kosou, každého si nájde.) ♪
-Dialogue: 0,0:18:36.50,0:18:40.87,Default,,0000,0000,0000,,♪ (Ukazuje svoju silu, máva kosou,) ♪
+Dialogue: 0,0:18:36.50,0:18:40.87,Default,,0000,0000,0000,,♪ (Ukazuje svoju silu, točí kosou,) ♪
 Dialogue: 0,0:18:40.87,0:18:45.00,Default,,0000,0000,0000,,♪ (nič nie je ostrejšie, nikto nie je rýchlejší.) ♪
-Dialogue: 0,0:18:45.00,0:18:49.10,Default,,0000,0000,0000,,♪ (O kvety sa nestará, odrezáva ich ako burinu.) ♪
+Dialogue: 0,0:18:45.00,0:18:49.10,Default,,0000,0000,0000,,♪ (Kvety neľutuje, seká ich ako burinu.) ♪
 Dialogue: 0,0:18:57.02,0:18:57.91,peter,,0000,0000,0000,,To je Gábor!
 Dialogue: 0,0:18:59.23,0:19:02.33,peter,,0000,0000,0000,,To je Gábor. Gábor. Gábor!
 Dialogue: 0,0:19:02.33,0:19:04.97,peter,,0000,0000,0000,,Gábor! Som tvoj najväčší fanúšik!
@@ -2598,7 +2598,8 @@ Dialogue: 0,1:51:16.44,1:51:17.77,stary-jano,,0000,0000,0000,,jeho khokotom,
 Dialogue: 0,1:51:17.77,1:51:19.77,stary-jano,,0000,0000,0000,,ako ďalší vstúpi do labyrintu
 Dialogue: 0,1:51:20.10,1:51:21.29,stary-jano,,0000,0000,0000,,Chvostnatý Gábor!
 Dialogue: 0,1:51:21.07,1:51:22.07,Default,,0000,0000,0000,,
-Dialogue: 0,1:51:21.79,1:51:26.43,Default,,0000,0000,0000,,
+Dialogue: 0,1:51:21.79,1:51:24.43,Default,,0000,0000,0000,,Už len smrť Slovensku!
+Dialogue: 0,1:51:24.79,1:51:26.43,Default,,0000,0000,0000,,Maďarsko naveky!
 Dialogue: 0,1:51:26.43,1:51:28.24,stary-jano,,0000,0000,0000,,A ako posledná vstúpi do turnaja
 Dialogue: 0,1:51:28.24,1:51:30.23,stary-jano,,0000,0000,0000,,absolútne nezaujímavá sivá myš
 Dialogue: 0,1:51:30.23,1:51:31.42,stary-jano,,0000,0000,0000,,Zuzana de Merde.
